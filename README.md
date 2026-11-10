@@ -49,3 +49,17 @@ The project has not been compiled in this environment.
 Confirm the exact ESP32 board and the power/charger module. Then validate the
 display and buttons on the bench, followed by SPI device transactions and
 passive-only radio receive/observation features for owned/authorized devices.
+
+---
+
+## Downloads
+
+### Latest Release — HETPAHH OS v0.5
+
+**HETPAHH OS v0.5 — Initial Development Release**
+
+[Download HETPAHH_OS_v0.5.zip](https://github.com/HETPAHH/HETPAHH-OS/releases/latest)
+
+For installation instructions and source code, see the repository files.
+
+**Note:** This is an experimental development release. Hardware compatibility and firmware functionality have not yet been fully validated.
